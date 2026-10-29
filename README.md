@@ -64,5 +64,111 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Cloudshare is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://equityzen.com/company/cloudshare
+CloudShare provides virtual IT labs and hands‑on practice environments that enable software vendors, training providers, and enterprises to create realistic, on‑demand sandbox environments for demos, proofs‑of‑concept, onboarding, and cybersecurity training. Their AI‑first platform automates provisioning of complex multi‑application setups, allowing users to test, train, and showcase software without needing physical hardware.
+
+**Areas:** Cloud · VirtualLabs · Training · Sandbox · Enterprise
+
+## Cloudshare on APIs.io
+
+Everything profiled for Cloudshare is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cloudshare/](https://apis.io/providers/cloudshare/)** — or go straight to one of the APIs or properties below.
+
+### APIs (16)
+
+- [Cloudshare API](https://apis.io/apis/cloudshare/cloudshare-api-2/) — Cloudshare provides a developer API documented at https://docs.cloudshare.com/.
+- [Cloudshare Class API](https://apis.io/apis/cloudshare/cloudshare-class-api/) — The Class API from Cloudshare — 10 operation(s) for class.
+- [Cloudshare Class Analytics API](https://apis.io/apis/cloudshare/cloudshare-classanalytics-api/) — The ClassAnalytics API from Cloudshare — 2 operation(s) for classanalytics.
+- [Cloudshare Cloudfolders API](https://apis.io/apis/cloudshare/cloudshare-cloudfolders-api/) — The Cloudfolders API from Cloudshare — 2 operation(s) for cloudfolders.
+- [Cloudshare Cloudshare API](https://apis.io/apis/cloudshare/cloudshare-cloudshare-api-api/) — The Cloudshare API API from Cloudshare — 1 operation(s) for cloudshare api.
+- [Cloudshare .. API](https://apis.io/apis/cloudshare/cloudshare-default-api/) — The .. API from Cloudshare — 1 operation(s) for ...
+- [Cloudshare Envs API](https://apis.io/apis/cloudshare/cloudshare-envs-api/) — The Envs API from Cloudshare — 2 operation(s) for envs.
+- [Cloudshare Externalclouds API](https://apis.io/apis/cloudshare/cloudshare-externalclouds-api/) — The Externalclouds API from Cloudshare — 1 operation(s) for externalclouds.
+- [Cloudshare ID API](https://apis.io/apis/cloudshare/cloudshare-id-api/) — The ID API from Cloudshare — 1 operation(s) for id.
+- [Cloudshare Instructors API](https://apis.io/apis/cloudshare/cloudshare-instructors-api/) — The Instructors API from Cloudshare — 1 operation(s) for instructors.
+- [Cloudshare Invitations API](https://apis.io/apis/cloudshare/cloudshare-invitations-api/) — The Invitations API from Cloudshare — 1 operation(s) for invitations.
+- [Cloudshare Projects API](https://apis.io/apis/cloudshare/cloudshare-projects-api/) — The Projects API from Cloudshare — 3 operation(s) for projects.
+- [Cloudshare Snapshots API](https://apis.io/apis/cloudshare/cloudshare-snapshots-api/) — The Snapshots API from Cloudshare — 3 operation(s) for snapshots.
+- [Cloudshare Users API](https://apis.io/apis/cloudshare/cloudshare-users-api/) — The Users API from Cloudshare — 2 operation(s) for users.
+- [Cloudshare Vms API](https://apis.io/apis/cloudshare/cloudshare-vms-api/) — The Vms API from Cloudshare — 2 operation(s) for vms.
+- [Cloudshare Webhooks API](https://apis.io/apis/cloudshare/cloudshare-webhooks-api/) — The Webhooks API from Cloudshare — 1 operation(s) for webhooks.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Cloudshare API Rules](https://apis.io/rules/cloudshare/cloudshare-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Cloudshare Domain Security](https://apis.io/security/cloudshare/cloudshare-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.cloudshare.com)
+- [Documentation](https://docs.cloudshare.com/)
+- [Pricing](https://www.cloudshare.com/pricing/)
+- [Support](https://support.cloudshare.com/hc/en-us)
+- [Blog](https://www.cloudshare.com/resources/blog/)
+- [Privacy policy](https://www.cloudshare.com/privacy-policy)
+- [GitHub](https://github.com/cloudshare)
+- [Status](https://status.cloudshare.com/)
+
+## API Evangelist rating
+
+**Kin Score 23.4** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 69.6 |
+| Contract quality | 9.6 |
+| Contract governance | 18.2 |
+| Operational transparency | 21.1 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 21.1 |
+
+**Agent readiness 31.7** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+
+**Regulatory alignment 20.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cloudshare/](https://apis.io/providers/cloudshare/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Cloudshare: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cloudshare/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
